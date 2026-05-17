@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "creazy_playz.aternos.me",
+    "port": 53488,
+    "version": "26.30.28"
   },
   "position": {
     "enabled": true,
